@@ -1,6 +1,6 @@
 {
   "maintenanceDownBlock": -1,
-  "forceMaintenanceDown": true,
+  "forceMaintenanceDown": false,
   "useExternalOraclePrice": true,
-  "oracleFeedResumeTime": "Thu Sep 30 2021 xx:xx:xx UTC"
+  "oracleFeedResumeTime": "Thu Sep 30 2021 17:05:00 UTC"
 }
